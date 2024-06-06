@@ -1,5 +1,3 @@
-# arvind-resume.github.io
-
 # Software Engineer
 
 ### Education
